@@ -19,7 +19,7 @@ I work especially well in projects involving:
 - Cloud data platforms on AWS, Azure, and GCP
 - Data warehouse and Hadoop/EMR modernization
 
-📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/andresalvati/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/andresalvati/)
 
 ---
 
