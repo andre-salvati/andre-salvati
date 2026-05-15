@@ -20,7 +20,8 @@ I work especially well in projects involving:
 - Data warehouse and Hadoop/EMR modernization
 
 📫 Connect With Me
-LinkedIn: linkedin.com/in/andresalvati
+[LinkedIn: linkedin.com/in/andresalvati
+](https://www.linkedin.com/in/andresalvati/)
 
 ---
 
